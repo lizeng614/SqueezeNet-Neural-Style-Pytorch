@@ -25,7 +25,7 @@ Notice that this implementation aims at small size and fast training time on les
 </div>
 
 <div align = 'center'>
-<img src="https://raw.githubusercontent.com/lizeng614/pytorch-neural-style/master/img_data/output/s_w01.jpg" height="372px"> <img src="https://raw.githubusercontent.com/lizeng614/pytorch-neural-style/master/img_data/style/display/stary_night.jpg" height="372px">
+<img src="https://raw.githubusercontent.com/lizeng614/pytorch-neural-style/master/img_data/output/s_w01.jpg" height="372px"> <img src="https://raw.githubusercontent.com/lizeng614/pytorch-neural-style/master/img_data/style/display/wave_1.jpg" height="372px">
 </div>
 
 ## Usage
